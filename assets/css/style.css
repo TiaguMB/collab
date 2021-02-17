@@ -196,6 +196,10 @@ footer {
    color: #333;
 }
 
+.remove-overflow {
+   overflow: hidden;
+}
+
 @media only screen and (max-width: 660px) {
    main {
       display: block;
